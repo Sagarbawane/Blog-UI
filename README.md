@@ -8,5 +8,5 @@ This is a front-end project which take data from json-placeholder website .It di
 4. react-router-dom
 5. react-scripts
 
-Author
-Sagar Bawane
+ # Author
+   Sagar Bawane
